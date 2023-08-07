@@ -130,7 +130,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Bilibili"
-      icon: "fab fa-fw fa-bilibili"
+      icon: "fa-brands fa-bilibili"
       url: "https://space.bilibili.com/472927037/"
 
 # Site Footer
