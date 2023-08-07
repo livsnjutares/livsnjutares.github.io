@@ -129,6 +129,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
 
 # Site Footer
 footer:
