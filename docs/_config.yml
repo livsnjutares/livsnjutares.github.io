@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/livsnjutares"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://www.github.com/livsnjutares
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -287,7 +287,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
@@ -299,7 +299,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
@@ -311,7 +311,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
