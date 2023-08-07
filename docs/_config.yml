@@ -286,7 +286,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
@@ -299,7 +299,11 @@ defaults:
     values:
       layout: single
       author_profile: false
+      read_time: true
+      comments: # true
       share: true
+      related: true
+      show_date: true
   # _learncpp
   - scope:
       path: ""
@@ -307,8 +311,11 @@ defaults:
     values:
       layout: single
       author_profile: false
+      read_time: true
+      comments: # true
       share: true
-
+      related: true
+      show_date: true
 
 #Collections
 collections:
