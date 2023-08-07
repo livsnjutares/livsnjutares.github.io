@@ -7,4 +7,8 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+C++教程合集
+
+[learncpp][learncpp]
+
+[learncpp]: https://livsnjutares.github.io/learncpp

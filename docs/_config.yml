@@ -317,4 +317,4 @@ collections:
     permalink: /:collection/:path/
   learncpp:
     output: true
-    permalink: /cpp/:collection/:path/
+    permalink: /:collection/:path/
