@@ -111,9 +111,9 @@ author:
   location         : "Shanghai"
   email            :
   links:
-    - label: "Email"
+    - label: "wzx727210@126.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wzx727210@126.com"
+      # url: "wzx727210@126.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
