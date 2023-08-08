@@ -148,9 +148,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Bilibili"
+      icon: "fa-brands fa-bilibili"
+      url: "https://space.bilibili.com/472927037/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
