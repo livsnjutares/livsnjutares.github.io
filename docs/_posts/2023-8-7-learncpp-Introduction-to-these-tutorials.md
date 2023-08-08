@@ -1,5 +1,5 @@
 ---
-title: "0.1 教程简介"
+title: "[learncpp] 0.1 教程简介"
 excerpt: "欢迎！"
 ---
 ## 欢迎！
