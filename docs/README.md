@@ -3,6 +3,10 @@ home: true
 heroImage: https://vuejs.press/images/hero.png
 heroText: Livsnjutare's Blog
 tagline: 但问耕耘 莫问收获
+actions:
+  - text: 进入博客
+    link: https://livsnjutares.github.io/article
+    type: primary
 features:
 - title: 笔记
   details: Markdown语言，简洁高效记录每一刻
