@@ -4,12 +4,27 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'en-US',
+  lang: 'zh-CN',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'Livsnjutare\'s Blog',
+  description: 'Livsnjutare\'s Blog',
+  locales: {
+    '/': {
+        selectLanguageName: '简体中文',
+        title: 'Livsnjutare\'s Blog',
+        description: 'Livsnjutare\'s Blog',
+    },
+    '/en/': {
+        selectLanguageName: 'English',
+        title: 'Livsnjutare\'s Blog',
+        description: 'Livsnjutare\'s Blog',
+    },
+  },
 
   theme: defaultTheme({
+
+	  
+	  
     logo: 'https://vuejs.press/images/hero.png',
 
     navbar: [
@@ -31,7 +46,24 @@ export default defineUserConfig({
         link: '/timeline/',
       },
     ],
+	
+	
+    locales: {
+        '/': {
+            selectLanguageName: '简体中文',
+            selectLanguageText: '选择语言',
+        },
+        '/en/': {
+            selectLanguageName: 'English',
+            selectLanguageText: 'Language',
+        }
+    }  
+  
+  
+  
   }),
+  
+  
 
   plugins: [
     blogPlugin({
